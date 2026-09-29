@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(202, 139, 181);
+    background-image: url("background.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.portfolio {
+    width: 70%;
+    margin: 50px auto;
+    padding: 30px;
+    text-align: center;
+    border: 3px solid #555;
+    border-radius: 15px;
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: italic;
+    font-variant: small-caps;
+}
+
+h2 {
+    font-family: Arial;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom:25px;
+}
+
+h3 {
+    font-family: Arial;
+    font-size: 22px;
+    font-weight: normal;
+}
+
+p {
+    font-family: Arial;
+    font-size: 18px;
+}

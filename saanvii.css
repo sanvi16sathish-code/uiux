@@ -1,0 +1,6 @@
+body {
+    background-color: rgb(202, 139, 181);
+    background-image: url("bgimage.jpg");
+    background-size: cover;
+    background-position: center;
+}
